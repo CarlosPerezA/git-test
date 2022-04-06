@@ -5,3 +5,5 @@ function newFunction() {
 function anotherFunction(){
     console.log('first');
 }
+
+console.log("prueba")
